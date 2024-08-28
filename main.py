@@ -57,6 +57,6 @@ if __name__ == "__main__":
         description="Search for related products using an AI-powered vector search"
     )
 
-    interface.launch(share=True)
+    interface.launch(server_name="0.0.0.0", share=True)
     products_db.close_connection()
 

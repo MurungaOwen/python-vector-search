@@ -1,3 +1,9 @@
+---
+title: vector-search-hood
+app_file: main.py
+sdk: gradio
+sdk_version: 4.42.0
+---
 ## vector search using hugging face semantic search, MongoDb and python
 ### setup
 ```bash 
