@@ -1,0 +1,165 @@
+{
+    "products": [
+      {
+        "product_id": "001",
+        "name": "Wireless Bluetooth Headphones",
+        "description": "High-quality over-ear headphones with noise cancellation and long battery life.",
+        "price": 59.99,
+        "category": "Electronics",
+        "tags": ["headphones", "bluetooth", "noise-cancellation", "audio", "wireless"]
+      },
+      {
+        "product_id": "002",
+        "name": "Noise Cancelling Earbuds",
+        "description": "In-ear noise-cancelling earbuds with a comfortable fit and long battery life.",
+        "price": 129.99,
+        "category": "Electronics",
+        "tags": ["earbuds", "noise-cancellation", "audio", "wireless"]
+      },
+      {
+        "product_id": "003",
+        "name": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with high-quality sound and built-in microphone.",
+        "price": 39.99,
+        "category": "Electronics",
+        "tags": ["speaker", "bluetooth", "portable", "audio"]
+      },
+      {
+        "product_id": "004",
+        "name": "Smart Watch",
+        "description": "Fitness tracker with heart rate monitor and GPS.",
+        "price": 99.99,
+        "category": "Wearables",
+        "tags": ["smart-watch", "fitness", "heart-rate", "GPS"]
+      },
+      {
+        "product_id": "005",
+        "name": "Fitness Tracker",
+        "description": "Activity tracker with heart rate monitor, sleep tracking, and step counter.",
+        "price": 69.99,
+        "category": "Wearables",
+        "tags": ["fitness", "tracker", "heart-rate", "sleep"]
+      },
+      {
+        "product_id": "006",
+        "name": "Smart LED Light Bulb",
+        "description": "Wi-Fi enabled smart bulb with adjustable brightness and color settings, compatible with voice assistants.",
+        "price": 19.99,
+        "category": "Home & Garden",
+        "tags": ["smart-home", "lighting", "LED", "Wi-Fi", "voice-control"]
+      },
+      {
+        "product_id": "007",
+        "name": "Portable Solar Charger",
+        "description": "Compact solar-powered charger for mobile devices, ideal for camping and outdoor activities.",
+        "price": 34.99,
+        "category": "Outdoor",
+        "tags": ["solar", "charger", "portable", "mobile", "outdoor"]
+      },
+      {
+        "product_id": "008",
+        "name": "Eco-friendly Water Bottle",
+        "description": "Reusable stainless steel water bottle that keeps liquids cold for up to 24 hours.",
+        "price": 12.99,
+        "category": "Health & Wellness",
+        "tags": ["eco-friendly", "reusable", "water-bottle", "stainless-steel"]
+      },
+      {
+        "product_id": "009",
+        "name": "Wireless Charger",
+        "description": "Fast wireless charger compatible with most Qi-enabled devices.",
+        "price": 24.99,
+        "category": "Electronics",
+        "tags": ["charger", "wireless", "Qi", "fast-charging"]
+      },
+      {
+        "product_id": "010",
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable electric toothbrush with multiple brushing modes and timer.",
+        "price": 59.99,
+        "category": "Health & Wellness",
+        "tags": ["toothbrush", "electric", "rechargeable", "health"]
+      },
+      {
+        "product_id": "011",
+        "name": "Electric Kettle",
+        "description": "Stainless steel electric kettle with fast boiling and auto shut-off features.",
+        "price": 34.99,
+        "category": "Home Appliances",
+        "tags": ["kettle", "electric", "stainless-steel", "boiling"]
+      },
+      {
+        "product_id": "012",
+        "name": "Smart Thermostat",
+        "description": "Programmable smart thermostat with remote control and energy-saving features.",
+        "price": 129.99,
+        "category": "Home Appliances",
+        "tags": ["thermostat", "smart", "energy-saving", "home"]
+      },
+      {
+        "product_id": "013",
+        "name": "Air Purifier",
+        "description": "HEPA air purifier with smart sensors and multiple filtration stages.",
+        "price": 89.99,
+        "category": "Home Appliances",
+        "tags": ["air-purifier", "HEPA", "home", "appliances"]
+      },
+      {
+        "product_id": "014",
+        "name": "Gaming Mouse",
+        "description": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+        "price": 49.99,
+        "category": "Electronics",
+        "tags": ["gaming", "mouse", "RGB", "precision"]
+      },
+      {
+        "product_id": "015",
+        "name": "Smart Glasses",
+        "description": "Augmented reality smart glasses with voice control and gesture recognition.",
+        "price": 199.99,
+        "category": "Wearables",
+        "tags": ["smart-glasses", "AR", "wearables", "tech"]
+      },
+      {
+        "product_id": "016",
+        "name": "Portable Blender",
+        "description": "Compact and rechargeable blender for making smoothies on the go.",
+        "price": 29.99,
+        "category": "Kitchen",
+        "tags": ["blender", "portable", "smoothies", "kitchen"]
+      },
+      {
+        "product_id": "017",
+        "name": "Electric Screwdriver",
+        "description": "Cordless electric screwdriver with multiple bits and adjustable speed settings.",
+        "price": 49.99,
+        "category": "Tools",
+        "tags": ["screwdriver", "electric", "cordless", "tools"]
+      },
+      {
+        "product_id": "018",
+        "name": "Home Security Camera",
+        "description": "Smart security camera with motion detection and night vision capabilities.",
+        "price": 79.99,
+        "category": "Home Security",
+        "tags": ["security", "camera", "smart", "motion-detection"]
+      },
+      {
+        "product_id": "019",
+        "name": "Electric Blanket",
+        "description": "Heating blanket with adjustable temperature settings and automatic shut-off.",
+        "price": 89.99,
+        "category": "Home & Garden",
+        "tags": ["blanket", "electric", "heating", "home"]
+      },
+      {
+        "product_id": "020",
+        "name": "Digital Camera",
+        "description": "Compact digital camera with high-resolution image sensor and optical zoom.",
+        "price": 299.99,
+        "category": "Photography",
+        "tags": ["camera", "digital", "photography", "high-resolution"]
+      }
+    ]
+  }
+  
