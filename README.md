@@ -29,3 +29,4 @@ run the functions as follows
 ```bash
 python main.py
 ```
+!["Workings"](image.png)
