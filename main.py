@@ -46,8 +46,8 @@ def search_interface(product_query: str):
 
 
 if __name__ == "__main__":
-    # add_data()
-    # store_embeddings()
+    add_data()
+    store_embeddings()
     
     interface = gr.Interface(
         fn=search_interface, 
